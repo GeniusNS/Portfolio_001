@@ -1,0 +1,200 @@
+body
+{
+    background: url(img/blur.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+div
+{
+    margin: auto;
+   
+}
+nav
+{
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    width: 100%;
+    height: 45px;
+    text-align: right;
+    background-color: rgb(240,240,240);
+}
+nav a
+{
+    text-decoration: none;
+    font-size: 170%;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family:sans-serif;
+    color: black;
+    position: relative;
+    top: 10px;
+}
+
+.cont span
+{
+    color: skyblue;
+    font-size: 130%;
+    margin-right: 10px;
+}
+.cont h1
+{
+    color: orange;
+}
+.big
+{
+    width: 80%;
+    display: flex;
+    font-family:sans-serif;
+    font-weight:500;
+    font-size: 150%;
+    color: aliceblue;
+    margin-bottom: 10px;
+    
+}
+
+.big img
+{
+   width: 300px;
+   
+}
+#portfolio
+{
+    width: 100%;
+     background-image: linear-gradient(45deg,rgba(153, 204, 255,.1),rgba(0, 102, 255,1));
+    
+    
+}
+.btn1
+{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    border-style: none;
+    background: linear-gradient(
+45deg
+,darkblue , skyblue);
+    color: aliceblue;
+    font-size: 70%;
+    
+}
+.cont2
+{
+    text-align: 
+}
+.new
+{
+    background: 
+}
+.large
+{
+    display: flex;
+    background: gray;
+}
+.subl
+{
+    width: 1500px;
+    text-align: center;
+}
+.min
+{
+    
+    display: inline-block;
+    min-height: 300px;
+    width: 20%;
+    margin: 10px;
+    background: white;
+    border-radius: 10px;
+    padding: 1%;
+    font-size: 80%;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    box-shadow: 40px white;
+    
+}
+.min img
+{
+    width: 100%;
+}
+.another
+{
+    background: white;
+    display: flex;
+}
+.lst h4
+{
+    font-family: sans-serif;
+    color: yellowgreen;
+    text-align: center;
+    font-size: 30px;
+}
+.lst li
+{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.another1
+{
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    background: linear-gradient(to top right, #33ccff 45%, #0000ff 100%);
+    border-radius: 15px 15px 0 0;
+    height: 150px;
+    
+}
+.another1 *
+{
+    margin: 2% 4%;
+}
+.btn
+{
+    height: 150px;
+}
+.another2
+{
+    display: flex;
+    justify-content: space-between;
+    background: linear-gradient(to bottom left, #6600cc 45%, #cc99ff 100%);
+    border-radius: 15px 15px 0 0;
+    color: aliceblue;
+    margin-top: 20px;
+    width: 80%
+}
+    
+}
+.another2 *
+{
+    margin: 10px 30px;
+}
+.another2 p
+{
+    font-family: sans-serif;
+    font-size: 130%;
+    padding: 10px 0;
+    margin-left: 70px;
+}
+    
+.btnn2
+{
+    background: linear-gradient(to bottom left, #006600 45%, #66ff33 100%);
+    height: 50px;
+    width: 120px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 110%;
+    margin-right: 50px;
+    
+}
+.foot
+{
+    color: aliceblue;
+    text-align: center;
+}
+.ftmg img
+{
+    width: 80px;
+}
+
